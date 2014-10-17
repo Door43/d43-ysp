@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ysp:home|Door43 (ysp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ysp|d43-ysp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ysp/archive/master.zip|d43-ysp.zip]]
+
+**Recent Changes**
+{{changes>ns = ysp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ysp|Ethnologue data]]
+
